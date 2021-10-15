@@ -50,7 +50,7 @@ Jun 2015 – Oct 2018 Senior System Administrator
 | Aug 2005 – Sep 2007  |  ISG |  Advisor to BDO |
 | Feb 2003 – Aug 2005  |  Rostelecom |  Advisor to CIO |
 | Jan 2002 – Feb 2003  | IP-Tel Co.  | Head of technical department  |
-| Jun 2000 – Dec 2001  | ASPLinux  | QA/evangelist |
+| Jun 2000 – Dec 2001  | ASPLinux  | QA/Evangelist |
 | Oct 1995 – Jun 2000  |  Irkutsk State Technical University | Network Administrator/Software Developer  |
 
 
