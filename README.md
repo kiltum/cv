@@ -24,7 +24,7 @@ Nov 2018 – Dec 2020 Head of DevOps
 - Work with business partners and other Tech groups to identify technical needs of system and determine priority of needs
 - Drive key performance indicators for emerging technologies as they come online
 - Manage team of associate engineers and contractors
-- Facilitate and lead resolution of complex problems. Escalation contact for Support Engineers, internal departments, and customers for technical issues
+- Facilitate and lead resolution of complex problems. 
 - Escalation contact for Support Engineers, internal departments, and customers for technical issues
 
 
