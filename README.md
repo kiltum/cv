@@ -35,3 +35,39 @@ Jun 2015 – Oct 2018 Senior System Administrator
 - Managing 1000+ servers in a distributed and highly available critical infrastructure
 - Develop and automate standard operating procedures around common failure scenarios.
 - Actively manage, improve, and monitor internal cloud infrastructure
+
+### Previous Jobs
+
+|   |   |   |
+|---|---|---|
+| Feb 2010 – Dec 2018  |  VseMoe |  CIO |
+| Mar 2015 – Jun 2015  |  GbLab |  CTO |
+| Sep 2014 – Feb 2015  | SMM  | Project Director  |
+| Mar 2014 – Sep 2014  | IT  |  Software Engineer |
+| May 2009 – Mar 2014  |  PingWin | CTO  |
+| Jul 2008 – Apr 2009  | CCTLD.ru  | CTO  |
+| Oct 2007 – Apr 2008  | MPC  |  Deputy CEO |
+| Aug 2005 – Sep 2007  |  ISG |  Advisor to BDO |
+| Feb 2003 – Aug 2005  |  Rostelecom |  Advisor to CIO |
+| Jan 2002 – Feb 2003  | IP-Tel Co.  | Head of technical department  |
+| Jun 2000 – Dec 2001  | ASPLinux  | QA/evangelist |
+| Oct 1995 – Jun 2000  |  Irkutsk State Technical University | Network Administrator/Software Developer  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
