@@ -7,11 +7,11 @@ During my job experience, I had practical skills with interesting technologies, 
 In the whole role of my engineering practice include building and supporting solutions based on Linux/Unix 
 platform in a clouds and on-premise, experience on server infrastructure migration, 
 monitoring and securing server setup/administration. Takes the form part in automating, supporting and 
-to ensure CI/CD in product developing. Know how to implement highly available BigData and HighLoad systems.
+to ensure CI/CD in product developing. Know how to implement highly available Big Data and High Load systems.
 
 ## Skills
 
-- Prоvidеrs: АWS, GCE, Azure, Hеtzner, Digital Ocean, Bare-metal
+- Prоvidеrs: АWS, GCE, Azure, Hеtzner, Digital Ocean, OVH,  Bare-metal
 - Prоvisiоning and Оrchestratiоn: Proxmox, VMWare, Kubеrnеtes, Dоcker, Rаncher, Terrаfоrm, Ansible, Salt 
 - DВ: MySQL, Percona, Postgres, Kafka, Elаsticsеarch, Rеdis, Hadoop
 - СI/СD: Gitlаb, Github, Jenkins, BitBucket;
@@ -35,7 +35,6 @@ Nov 2018 – Dec 2020
 Senior System Administrator
 Jun 2015 – Oct 2018
 
-
 - Re-implement and overtaking data center control by modern technologies.
 - Managing 1000+ servers in a distributed and highly available critical infrastructure
 - Develop and automate standard operating procedures around common failure scenarios.
@@ -47,4 +46,4 @@ Feb 2010 – Dec 2018
 
 - Manage operational performance of core software applications
 - Commercial software development, and/or technical operations experience
-- 
+- Moving us to a consistent global DevOps model
